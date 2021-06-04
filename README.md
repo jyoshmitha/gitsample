@@ -1,2 +1,2 @@
 # gitsample
-examples of git and hithub
+examples of git and github
